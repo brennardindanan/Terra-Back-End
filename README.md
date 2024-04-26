@@ -37,4 +37,8 @@
 
 ## Check it out!
 #### ![Devpost](https://img.shields.io/badge/-Devpost-4630EB?style=flat&logo=devpost&logoColor=white) [Devpost](https://devpost.com/software/terra-2dy8o5)
+#### ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github) [GitHub Calculator Back-End Repo](https://github.com/RamtinRJ/Terra-Caculator-)
+
+
+> Note: Original repo from my hacakthon teammates Arjun Mandair and Ramtin Raouf! I didn't have/make GitHub during the time this hackathon occurred so I couldn't join the repo. Reuploading for portfolio purposes.
 
