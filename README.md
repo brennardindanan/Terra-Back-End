@@ -34,3 +34,7 @@
 
 
 **🏆 Winner: [R. U. Hacking?] 3rd Place Prize!**
+
+## Check it out!
+#### ![Devpost](https://img.shields.io/badge/-Devpost-4630EB?style=flat&logo=devpost&logoColor=white) [Devpost](https://devpost.com/software/terra-2dy8o5)
+
